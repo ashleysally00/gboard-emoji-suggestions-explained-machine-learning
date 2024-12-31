@@ -170,6 +170,9 @@ Let's look at how Gboard learns to suggest the 🔥 emoji when people type "lit"
 This balance of local learning and global improvement ensures that Gboard gets smarter at suggesting emojis while maintaining strong privacy protections. The system continues to learn from collective usage patterns while keeping individual data secure and private.🔒
 
 ---
-**Learn More Here**: To learn more about federated learning and privacy in machine learning, check out Google's [Privacy in Machine Learning Training: Federated Learning](https://www.cloudskillsboost.google/paths/183/course_templates/1036/video/513292) course on Google Cloud Skills Boost.
 
+**Learn More Here**: 💖 To learn more about federated learning and privacy in machine learning, check out Google's [Privacy in Machine Learning Training: Federated Learning](https://www.cloudskillsboost.google/paths/183/course_templates/1036/video/513292) course on Google Cloud Skills Boost.
 
+These hands-on resources are part of the [Advanced: Generative AI for Developers Learning Path](https://www.cloudskillsboost.google/paths/183) on Google Cloud Skills Boost, which includes a [Responsible AI for Developers](https://www.cloudskillsboost.google/paths/183/course_templates/1036) section covering both federated learning and differential privacy techniques.
+
+Want a video walkthrough to solve the lab? ✨ Follow along with the [Software Girls channel's hands-on lab walkthrough: Differential Privacy in Machine Learning with TensorFlow Privacy](https://www.youtube.com/watch?v=_DM1JbuLV8c). 
