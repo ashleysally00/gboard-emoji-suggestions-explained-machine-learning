@@ -1,7 +1,7 @@
 
 # How Gboard Suggests Emojis: A Technical Overview
 
-When an emoji pops up in Gboard as a suggestion, have you ever wondered where that suggestion comes from or how Gboard arrives at it? Often, the emoji seems appropriate, though sometimes it doesn't.
+When an emoji pops up in Gboard as a suggestion, have you ever wondered where that suggestion comes from or how Gboard arrives at it? Often, the emoji seems appropriate, though sometimes it doesn't. 😎
 | <img src="https://github.com/ashleysally00/gboard-emoji-suggestions-explained-machine-learning/raw/main/REmojism.gif" width="190" alt="Gboard Emoji Suggestions"> | *Figure: Gboard's predictive emoji suggestions powered by federated machine learning, demonstrating real-time emoji predictions based on text input* |
 |:---:|:---|
 ---
